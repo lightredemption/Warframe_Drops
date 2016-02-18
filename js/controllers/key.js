@@ -1,11 +1,11 @@
 $(document).ready(function() {
 
-  $('#partSearch').DataTable({
+  $('#keySearch').DataTable({
     "bLengthChange": false,
     "responsive": true,
     "language": {
       "search": "",
-      "searchPlaceholder": "Enter warframe, parts, or locations e.g. Ash Prime Chassis"
+      "searchPlaceholder": "Enter key e.g. Tower 2 Survival"
     },
     "bSort": false,
     "info": false,
