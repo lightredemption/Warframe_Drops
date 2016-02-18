@@ -7,8 +7,10 @@
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw=="
     crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.11/css/dataTables.bootstrap.min.css">
   <link rel="stylesheet" type="text/css" src="https://cdn.datatables.net/1.10.11/css/jquery.dataTables.min.css">
   <link rel="stylesheet" type="text/css" src="https://cdn.datatables.net/responsive/2.0.2/css/responsive.dataTables.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="css/main.css" type="text/css">
   <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
@@ -18,12 +20,26 @@
 </head>
 
 <body>
-  <div id="wrapper">
-    <div id="header">
-    </div>
-    <div id="main">
-    </div>
-    <div id="footer">
+  <div id="wrapper" class="container-fluid">
+    <div id="main" class="row">
+      <div class="col-sm-12 text-center" id="brand">
+        <img src="images/logo.png" id="logo"></img>
+      </div>
+      <div id="title" class="col-sm-12 text-center"> Meridian</div>
+      <div id="parts" class="table-responsive col-sm-10 col-sm-offset-1">
+        <table id="partSearch" class="table responsive row-bordered" cellspacing="0" width="100%">
+          <thead>
+            <tr>
+              <th>Type</th>
+              <th>Name</th>
+              <th>Part</th>
+              <th>Mission</th>
+              <th>Location</th>
+              <th>Rotation</th>
+            </tr>
+          </thead>
+        </table>
+      </div>
     </div>
   </div>
 

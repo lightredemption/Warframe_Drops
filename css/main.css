@@ -1,0 +1,43 @@
+@font-face {
+    font-family: Cornerstone;
+    src: url(fonts/Cornerstone.ttf);
+}
+
+body {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+#main {
+  margin-top: 8%;
+  font-size: 1.2em;
+}
+
+#logo {
+  height: 5em;
+}
+
+#title {
+  font-family: 'Conerstone', cursive;
+  text-transform: uppercase;
+  font-size: 2.5em;
+}
+
+label {
+  display: block;
+}
+
+input {
+  width: 100% !important;
+  background-color: #292929;
+  border-color: #242424;
+  height: 2em;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
+
+.search {
+  background-color: #5e9dbe;
+}

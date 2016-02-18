@@ -1,15 +1,17 @@
-[{
-  "name": "Ash Prime",
-  "part": "Blueprint",
-  "type": "Warframe",
-  "mission": "Tower 3 Defence",
-  "location": "Orokin Void",
-  "rotation": "C"
-}, {
-  "name": "Ash Prime",
-  "part": "Systems",
-  "type": "Warframe",
-  "mission": "Tower 3 Survival",
-  "location": "Orokin Void",
-  "rotation": "C"
-}]
+{
+  "data": [{
+    "name": "Ash Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "Tower 3 Defense",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Ash Prime",
+    "part": "Systems",
+    "type": "Warframe",
+    "mission": "Tower 3 Survival",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }]
+}
