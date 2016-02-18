@@ -1,6 +1,6 @@
 @font-face {
     font-family: Cornerstone;
-    src: url(fonts/Cornerstone.ttf);
+    src: url(../fonts/Cornerstone.ttf);
 }
 
 body {
@@ -20,6 +20,7 @@ body {
 .rotate {
   -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
+    scale(0.99);
 }
 
 .table {
