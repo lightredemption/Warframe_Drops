@@ -11,20 +11,13 @@ $(document).ready(function() {
     "info": false,
     "paging": false,
     "pageLength": 8,
-    "ajax": "data/parts.json",
+    "ajax": "data/keys.json",
     "columns": [{
-      "data": "type"
-    }, {
       "data": "name"
     }, {
       "data": "part"
     }, {
-      "data": "mission"
-    }, {
       "data": "location"
-    }, {
-      "data": "rotation",
-      "bSearchable": false
     }]
   });
 
