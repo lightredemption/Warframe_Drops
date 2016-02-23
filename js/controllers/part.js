@@ -9,8 +9,8 @@ $(document).ready(function() {
     },
     "bSort": false,
     "info": false,
-    "paging": false,
-    "pageLength": 8,
+    "paging": true,
+    "iDisplayLength": 8,
     "ajax": "data/parts.json",
     "columns": [{
       "data": "type"

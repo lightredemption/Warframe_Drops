@@ -1,16 +1,135 @@
 {
   "data": [{
     "name": "Ash Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "Tower 4 Sabotage",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Ash Prime",
+    "part": "Systems",
+    "type": "Warframe",
+    "mission": "Tower 3 Survival",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Ash Prime",
+    "part": "Chassis",
+    "type": "Warframe",
+    "mission": "Tower 2 Survival",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Ash Prime",
+    "part": "Chassis",
+    "type": "Warframe",
+    "mission": "Tower 4 Survival",
+    "location": "Orokin Void",
+    "rotation": "A"
+  }, {
+    "name": "Ash Prime",
     "part": "Blueprint",
     "type": "Warframe",
     "mission": "Tower 3 Defense",
     "location": "Orokin Void",
     "rotation": "C"
   }, {
-    "name": "Ash Prime",
+    "name": "Loki Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "Tower 2 Capture",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Loki Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "Tower 4 Interception",
+    "location": "Orokin Void",
+    "rotation": "A"
+  }, {
+    "name": "Loki Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "Tower 2 Sabotage",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Loki Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "Tower 3 Sabotage",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Loki Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "Tower 4 Sabotage",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Loki Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "Tower 4 Survival",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Loki Prime",
+    "part": "Chassis",
+    "type": "Warframe",
+    "mission": "Tower 4 Sabotage",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Loki Prime",
+    "part": "Chassis",
+    "type": "Warframe",
+    "mission": "Tower 4 Survival",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Loki Prime",
     "part": "Systems",
     "type": "Warframe",
-    "mission": "Tower 3 Survival",
+    "mission": "Tower 4 Defense",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Loki Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "Tower 3 Sabotage",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Nova Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "Tower 2 Exterminate",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Nova Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "Tower 1 Sabotage",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Nova Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "Tower 4 Sabotage",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Nova Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "Tower 1 Survival",
     "location": "Orokin Void",
     "rotation": "C"
   }]
