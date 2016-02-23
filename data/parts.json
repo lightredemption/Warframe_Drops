@@ -3,134 +3,281 @@
     "name": "Ash Prime",
     "part": "Helmet",
     "type": "Warframe",
-    "mission": "Tower 4 Sabotage",
+    "mission": "T4 Sab",
     "location": "Orokin Void",
     "rotation": ""
   }, {
     "name": "Ash Prime",
     "part": "Systems",
     "type": "Warframe",
-    "mission": "Tower 3 Survival",
+    "mission": "T3 Sur",
     "location": "Orokin Void",
     "rotation": "C"
   }, {
     "name": "Ash Prime",
     "part": "Chassis",
     "type": "Warframe",
-    "mission": "Tower 2 Survival",
+    "mission": "T2 Sur",
     "location": "Orokin Void",
     "rotation": "C"
   }, {
     "name": "Ash Prime",
     "part": "Chassis",
     "type": "Warframe",
-    "mission": "Tower 4 Survival",
+    "mission": "T4 Sur",
     "location": "Orokin Void",
     "rotation": "A"
   }, {
     "name": "Ash Prime",
     "part": "Blueprint",
     "type": "Warframe",
-    "mission": "Tower 3 Defense",
+    "mission": "T3 Def",
     "location": "Orokin Void",
     "rotation": "C"
   }, {
     "name": "Loki Prime",
     "part": "Blueprint",
     "type": "Warframe",
-    "mission": "Tower 2 Capture",
+    "mission": "T2 Cap",
     "location": "Orokin Void",
     "rotation": ""
   }, {
     "name": "Loki Prime",
     "part": "Blueprint",
     "type": "Warframe",
-    "mission": "Tower 4 Interception",
+    "mission": "T4 Int",
     "location": "Orokin Void",
     "rotation": "A"
   }, {
     "name": "Loki Prime",
     "part": "Blueprint",
     "type": "Warframe",
-    "mission": "Tower 2 Sabotage",
+    "mission": "T2 Sab",
     "location": "Orokin Void",
     "rotation": ""
   }, {
     "name": "Loki Prime",
     "part": "Helmet",
     "type": "Warframe",
-    "mission": "Tower 3 Sabotage",
+    "mission": "T3 Sab",
     "location": "Orokin Void",
     "rotation": ""
   }, {
     "name": "Loki Prime",
     "part": "Helmet",
     "type": "Warframe",
-    "mission": "Tower 4 Sabotage",
+    "mission": "T4 Sab",
     "location": "Orokin Void",
     "rotation": ""
   }, {
     "name": "Loki Prime",
     "part": "Helmet",
     "type": "Warframe",
-    "mission": "Tower 4 Survival",
+    "mission": "T4 Sur",
     "location": "Orokin Void",
     "rotation": "C"
   }, {
     "name": "Loki Prime",
     "part": "Chassis",
     "type": "Warframe",
-    "mission": "Tower 4 Sabotage",
+    "mission": "T4 Sab",
     "location": "Orokin Void",
     "rotation": ""
   }, {
     "name": "Loki Prime",
     "part": "Chassis",
     "type": "Warframe",
-    "mission": "Tower 4 Survival",
+    "mission": "T4 Sur",
     "location": "Orokin Void",
     "rotation": "C"
   }, {
     "name": "Loki Prime",
     "part": "Systems",
     "type": "Warframe",
-    "mission": "Tower 4 Defense",
+    "mission": "T4 Def",
     "location": "Orokin Void",
     "rotation": "C"
   }, {
     "name": "Loki Prime",
     "part": "Helmet",
     "type": "Warframe",
-    "mission": "Tower 3 Sabotage",
+    "mission": "T3 Sab",
     "location": "Orokin Void",
     "rotation": ""
   }, {
     "name": "Nova Prime",
     "part": "Blueprint",
     "type": "Warframe",
-    "mission": "Tower 2 Exterminate",
+    "mission": "T2 Ext",
     "location": "Orokin Void",
     "rotation": ""
   }, {
     "name": "Nova Prime",
     "part": "Blueprint",
     "type": "Warframe",
-    "mission": "Tower 1 Sabotage",
+    "mission": "T1 Sab",
     "location": "Orokin Void",
     "rotation": ""
   }, {
     "name": "Nova Prime",
     "part": "Helmet",
     "type": "Warframe",
-    "mission": "Tower 4 Sabotage",
+    "mission": "T4 Sab",
     "location": "Orokin Void",
     "rotation": ""
   }, {
     "name": "Nova Prime",
     "part": "Helmet",
     "type": "Warframe",
-    "mission": "Tower 1 Survival",
+    "mission": "T1 Sur",
     "location": "Orokin Void",
     "rotation": "C"
+  }, {
+    "name": "Nova Prime",
+    "part": "Chassis",
+    "type": "Warframe",
+    "mission": "T3 Sur",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Nova Prime",
+    "part": "Systems",
+    "type": "Warframe",
+    "mission": "Derelict Sur",
+    "location": "Orokin Derelict",
+    "rotation": "C"
+  }, {
+    "name": "Nyx Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "T2 Cap",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Nyx Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "T4 Def",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Nyx Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "T2 MoD",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Nyx Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "T2 MoD",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Nyx Prime",
+    "part": "Chassis",
+    "type": "Warframe",
+    "mission": "T3 Ext",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Nyx Prime",
+    "part": "Systems",
+    "type": "Warframe",
+    "mission": "T3 Ext",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Nyx Prime",
+    "part": "Systems",
+    "type": "Warframe",
+    "mission": "T4 Sab",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Nyx Prime",
+    "part": "Systems",
+    "type": "Warframe",
+    "mission": "T4 Cap",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Saryn Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "T4 Ext",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Saryn Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "T3 Ext",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Saryn Prime",
+    "part": "Chassis",
+    "type": "Warframe",
+    "mission": "T3 Sur",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Saryn Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "T1 MoD",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Saryn Prime",
+    "part": "Systems",
+    "type": "Warframe",
+    "mission": "T2 Ext",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Trinity Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "T2 Def",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Trinity Prime",
+    "part": "Blueprint",
+    "type": "Warframe",
+    "mission": "Derelict Def",
+    "location": "Orokin Derelict",
+    "rotation": "C"
+  }, {
+    "name": "Trinity Prime",
+    "part": "Helmet",
+    "type": "Warframe",
+    "mission": "T2 Sab",
+    "location": "Orokin Void",
+    "rotation": ""
+  }, {
+    "name": "Trinity Prime",
+    "part": "Chassis",
+    "type": "Warframe",
+    "mission": "T3 Def",
+    "location": "Orokin Void",
+    "rotation": "A"
+  }, {
+    "name": "Trinity Prime",
+    "part": "Chassis",
+    "type": "Warframe",
+    "mission": "T2 Survival",
+    "location": "Orokin Void",
+    "rotation": "C"
+  }, {
+    "name": "Trinity Prime",
+    "part": "Systems",
+    "type": "Warframe",
+    "mission": "T3 MoD",
+    "location": "Orokin Void",
+    "rotation": ""
   }]
 }

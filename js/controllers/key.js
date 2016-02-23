@@ -5,7 +5,7 @@ $(document).ready(function() {
     "responsive": true,
     "language": {
       "search": "",
-      "searchPlaceholder": "Enter key e.g. Tower 2 Survival"
+      "searchPlaceholder": "Enter key e.g. T2 Survival"
     },
     "bSort": false,
     "info": false,
